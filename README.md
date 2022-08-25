@@ -1,4 +1,4 @@
-# Hi there Im Mabon Manoj! ![image](https://user-images.githubusercontent.com/54579704/183764045-f2649427-868d-4741-9e9b-903b17dde629.png)
+# Hi there! I am Mabon Manoj! ![image](https://user-images.githubusercontent.com/54579704/183764045-f2649427-868d-4741-9e9b-903b17dde629.png)
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=mabonmn&show_icons=true&theme=radical"/>
 <img align="left"  width="46.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabonmn&layout=compact"/>
 
