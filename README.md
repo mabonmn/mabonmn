@@ -1,9 +1,24 @@
-# Hi there! I am Mabon Manoj! ![image](https://user-images.githubusercontent.com/54579704/183764045-f2649427-868d-4741-9e9b-903b17dde629.png)
-<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=mabonmn&show_icons=true&theme=radical"/>
-<img align="left"  width="46.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabonmn&layout=compact"/>
+
+## Hi there, I'm MABON!
+
+![MABON's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabonmn&count_private=true&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabonmn&layout=compact&theme=dark)](https://github.com/mabonmn/github-readme-stats)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mabonmn&theme=onedark_duo)](https://git.io/streak-stats)
 
 
-<br>
+<!--
+**niyashameer/niyashameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
